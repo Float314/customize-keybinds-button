@@ -1,0 +1,34 @@
+{
+	"geode": "5.0.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "cyphrixz.customize-keybinds-button",
+	"name": "Customize Keybinds Button",
+	"version": "v1.0.0",
+	"developer": "cyphrixz",
+	"description": "Allows you to customize your Keybinds in pause menu(s)",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0",
+		"geode.custom-keybinds": ">=v2.1.0"
+	},
+	"tags": [
+		"customization",
+		"offline",
+		"interface",
+		"enhancement",
+		"customization"
+	],
+	"resources": {
+		"sprites": [
+			"res/*.png"
+		]
+	},
+	"links": {
+		"source": "https://github.com/Float314/customize-keybinds-button",
+		"community": "https://discord.gg/tB9xFfz7pe"
+	}
+}
