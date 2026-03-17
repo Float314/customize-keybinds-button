@@ -16,12 +16,6 @@ Huge thanks to:
 
 Yousseflmao (YoussefCreator on GD, ._hello._hello._hello._ on discord) for helping make the button and the logo.
 
-# Shoutout
-
-Huge shoutout to Axiom, easily one of the most amazing Geode developers out there. His work is honestly underrated, so i recommend checking his mod EchoClip and EchoChoke. 
-
-I can't even make mods that useful tbh.
-
 # Contact
 
 Even though my display name is Cyphrixz, my real Discord username is: @float_3.14159
