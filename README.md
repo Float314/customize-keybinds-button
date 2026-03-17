@@ -1,6 +1,6 @@
 # Customize Keybinds Button
 
-A small Geometry Dash Geode mod that adds a "Customize Keybinds" button to the pause menu in both the Editor (yet to be developed) and Play modes.
+A small Geometry Dash Geode mod that adds a "Customize Keybinds" button to the pause menu in both the Editor (soon) and Play modes.
 
 The button opens the keybind customization menu directly, making it easier to adjust your controls while playing or testing levels.
 

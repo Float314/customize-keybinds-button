@@ -3,10 +3,7 @@
 #include <Geode/ui/GeodeUI.hpp> 
 
 using namespace geode::prelude;
-
-// fun fact: i was timed out of the geode-sdk  server because i was too "anti-semitic"
-// idfk i just said ".... Call me a jew but..." you decide yourself and idk if i should have 
-// said that. I love Israel (Now if you want to read more pls (idfk.txt) ) Anyways, Src code - 
+ 
 class $modify(MyPauseLayer, PauseLayer) {
     void customSetup() override {
         PauseLayer::customSetup();
