@@ -20,3 +20,4 @@ Yousseflmao (YoussefCreator on GD, ._hello._hello._hello._ on discord) for helpi
 
 Even though my display name is Cyphrixz, my real Discord username is: @float_3.14159
 Feel free to contact me if you want to ask something, and I'll may (not) respond to you. 
+Also Join my Discord Server ig - [Discord](https://discord.gg/kx8km2V7kz)
